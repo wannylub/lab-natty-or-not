@@ -12,6 +12,7 @@ Na criação do conteúdo e das imagens do e-book, utilizei o chatgpt; em seguid
 
 ## 🚀 Resultados
 Gostei do resultado final do e-book.
+https://github.com/wannylub/lab-natty-or-not/blob/main/Gatos_e_a_Conexao_Humana(1).pdf
 
 ## 💭 Reflexão (Opcional)
 Foi desafiador fazer este projeto. Foi a primeira vez que utilizei o chatgpt e github. Fiquei feliz em superar meus limites.
